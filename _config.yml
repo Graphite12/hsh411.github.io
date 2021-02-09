@@ -94,9 +94,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Pixel"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "안녕하세요 티스토리 쓰다가 깃허브 블로그의 필요성을 느껴 새로 오픈했습니다."
   location         : "Somewhere"
   email            :
   links:
