@@ -98,7 +98,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "안녕하세요 티스토리 쓰다가 깃허브 블로그의 필요성을 느껴 새로 오픈했습니다."
   location         : "Somewhere"
-  email            :
+  email            : "pixeldot12@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
